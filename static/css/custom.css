@@ -17,7 +17,7 @@ body {
 
 .reveal {
   font-family: font-family: "PT Sans", Helvetica, Arial, sans-serif!important;
-  font-size: 25px;
+  font-size: 18px;
   font-weight: normal;
   color: #3C3D42;
 }
@@ -32,7 +32,7 @@ body {
 .reveal .slides > section > section {
   line-height: 1.5;
   font-weight: inherit;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 /*********************************************
@@ -68,6 +68,12 @@ body {
   font-size: 3em;
   color: #fff;
 }
+
+.divider_h1_yellow h1 {
+  font-size: 3em;
+  color: #ffff00;
+}
+
 
 .reveal h2 {
   font-size: 1.6em; }

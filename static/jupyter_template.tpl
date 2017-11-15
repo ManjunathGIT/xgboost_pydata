@@ -151,7 +151,7 @@ require(
                   condition: function() { return !!document.body.classList; } },
                 { src: 'plugin/title-footer/title-footer.js', async: true, callback: function() { title_footer.initialize(
                   // Change footer here
-          '© 2016 Dat Tran.  All rights reserved.', 'rgba(255,255,255,0.5)'
+          'by Jaroslaw Szymczak, @PyData Berlin, 15th November 2017', 'rgba(255,255,255,0.5)'
           ); } }
             ]
         });
